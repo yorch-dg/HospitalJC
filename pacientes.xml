@@ -4,7 +4,7 @@
         <id>1</id>
         <nombre>Juan Pérez</nombre>
         <edad>35</edad>
-        <género>Masculino</género>
+        <genero>Masculino</genero>
         <diagnóstico>Hipertensión</diagnóstico>
     </paciente>
     <paciente>
